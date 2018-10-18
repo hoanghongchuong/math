@@ -1,0 +1,15 @@
+/*BEGIN: FORM*/
+.vk-form--search {
+  position: relative; }
+  .vk-form--search .form-control {
+    padding-left: 15px;
+    padding-right: 55px;
+    min-height: 40px; }
+  .vk-form--search .vk-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 40px; }
+
+/*END: FORM*/
